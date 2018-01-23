@@ -1,0 +1,44 @@
+#pagina_inicial {
+	margin-top: 200px;
+}
+
+#palco_jogo {
+	padding-top: 125px;
+}
+
+#table1 {
+	border: 0;
+	width: 600px;
+}
+
+#entrada_apelido_jogador_1, #entrada_apelido_jogador_2 {
+	border: 0;
+}
+
+#palco_jogo {
+	display: none;
+	margin-top: 50px;
+	text-align: center
+}
+
+#table2 {
+	border: 0;
+}
+
+.gradevelha1 {
+	border-bottom: solid 1px red;
+	border-right: solid 1px red;
+}
+
+.gradevelha2 {
+	border-bottom: solid 1px red;
+}
+
+.gradevelha3 {
+	border-right: solid 1px red;
+}
+
+.jogada {
+	width:100px;
+	height:100px;
+}
